@@ -52,7 +52,7 @@
   </dependencies>
 		
   <build>
-    <finalName>CounterWebAppp Maven Webapp</finalName>
+    <finalName>CounterWebApp Maven Webapp</finalName>
 	<plugins>
 		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
